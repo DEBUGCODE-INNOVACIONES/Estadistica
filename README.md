@@ -5,4 +5,4 @@ Realizamos el análisis de un dataset que examina diversas ciudades en términos
 El equipo de Leap Data utilizó índices reconocidos mundialmente (formalizados para la  evaluación de iniciativas de ciudades inteligentes) y desarrolló un modelo de datos para  interpretar la posición de Calgary y Edmonton en relación con los líderes globales de las  
 actividades de ciudades inteligentes. Los índices utilizados para crear estos conocimientos se  desarrollaron exclusivamente a partir de conjuntos de datos abiertos..."
 
-fuente 'https://www.kaggle.com/datasets/magdamonteiro/smart-cities-index-datasets' , 
+fuente 'https://www.kaggle.com/datasets/magdamonteiro/smart-cities-index-datasets'
